@@ -111,7 +111,7 @@ Main Menu Options
 | Bubble Sort Expert | [@Roosara999](https://github.com/Rossara999) | Bubble Sort implementation with step counting |
 | Merge Sort Specialist | [@Ranuwaz](https://github.com/Ranuwaz) | Merge Sort with performance measurement |
 | Quick Sort Developer | [@22ug3-0557](https://github.com/22ug3-0557) | Quick Sort with performance integration |
-| UI/Integration Lead | [@Pgamara(https://github.com/Pgamara) | Data management, performance comparison, and user interface |
+| UI/Integration Lead | [@Pgamara](https://github.com/Pgamara) | Data management, performance comparison, and user interface |
 
  📁 Project Structure
 
