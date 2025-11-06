@@ -31,27 +31,12 @@ Prerequisites
 - Java JDK 8 or higher
 - Git
 
- Installation & Running
-```bash
-# Clone repository
-git clone https://github.com/yourusername/sorting-algorithm-comparison.git
+ Team Members
 
-# Compile and run
-cd src
-javac sorter/*.java
-java sorter.DataSorterApp
-
-👥 Team Members
-Member 1: Bubble Sort implementation with step counting
-
-Member 2: Merge Sort algorithm and performance measurement
-
-Member 3: Quick Sort implementation and optimization
-
-Member 4: UI integration, data generation, and comparative analysis
-
-
-
-📝 License
-This project is licensed under the MIT License.
+| Role | GitHub Username | Responsibility |
+|------|-----------------|----------------|
+| Member 1 | @Roosara999 | Bubble Sort implementation |
+| Member 2 | @Ranuwaz | Merge Sort implementation |
+| Member 3 | @22ug3-0557 | Quick Sort implementation |
+| Member 4 | @Pgamara | UI, Data Management, Integration |
 
